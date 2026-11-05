@@ -1,3 +1,6 @@
 print("Hello World")
 print("Haiii")
 print("Third line")
+print("Fourth line")
+print("Fifth line")
+print("Sixth line")
